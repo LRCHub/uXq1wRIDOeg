@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "陽春のパッセージ",
+  "base_artist": "田中陽子",
+  "createdAt": "2026-03-08T09:17:54.092992Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "陽春のパッセージ",
+      "artist": "田中陽子",
+      "has_synced": false,
+      "path": "select/pl_01_陽春のパッセージ_田中陽子.txt"
+    }
+  ]
+}
